@@ -605,5 +605,16 @@
         "version": "1.1.1",
         "location": "https://hub.docker.com/r/arm64v8/irssi",
         "type": "docker"
+    },
+    {
+        "description": "The Pi-hole® is a DNS sinkhole that protects your devices from unwanted content, without installing any client-side software.",
+        "repository": "dockerhub",
+        "arch": "amd64",
+        "icon": "",
+        "displayName": "pi-hole",
+        "name": "pihole/pihole",
+        "version": "4.2.2",
+        "location": "https://hub.docker.com/r/pihole/pihole/",
+        "type": "docker"
     }
 ]

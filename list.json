@@ -613,7 +613,7 @@
         "icon": "",
         "displayName": "pi-hole",
         "name": "pihole/pihole",
-        "version": "4.2.2",
+        "version": "latest",
         "location": "https://hub.docker.com/r/pihole/pihole/",
         "type": "docker"
     }
